@@ -26,7 +26,9 @@ const DataTable = ({ drugsData = [] }) => {
             ))
           ) : (
             <tr>
-              <td colSpan={5}>No data found</td>
+              <td colSpan={6} className="text-center">
+                No data found
+              </td>
             </tr>
           )}
         </tbody>
