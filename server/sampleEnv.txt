@@ -1,0 +1,5 @@
+NODE_ENV=development
+PORT=4000
+dbUser=shivenderkumar761
+dbPassword=nFFn0HGtBX6lzjKS
+dbCluster=cluster0.gec5bwd
