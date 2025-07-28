@@ -1,3 +1,5 @@
+import React from "react";
+
 const DataTable = ({ drugsData = [] }) => {
   return (
     <div className="flex-1 max-h-11/12 overflow-auto m-auto">

@@ -1,3 +1,5 @@
+import React from "react";
+
 const Header = () => {
   return (
     <header className="bg-accent shadow-accent flex justify-center gap-8 p-4 shadow-sm select-none">

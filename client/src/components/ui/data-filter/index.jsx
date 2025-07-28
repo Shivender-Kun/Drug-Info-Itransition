@@ -1,3 +1,5 @@
+import React from "react";
+
 const DataFilter = ({ companies = [], setSelectedCompany }) => {
   const handleSelectCompany = (e) => {
     e.preventDefault();
